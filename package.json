@@ -1,0 +1,23 @@
+{
+  "name": "dev_tools_backend",
+  "version": "1.0.0",
+  "description": "A backend for the dev tools project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharth200119/dev_tools_backend.git"
+  },
+  "keywords": [
+    "dev_tools",
+    "backend"
+  ],
+  "author": "Siddharth Ramnani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddharth200119/dev_tools_backend/issues"
+  },
+  "homepage": "https://github.com/siddharth200119/dev_tools_backend#readme"
+}
